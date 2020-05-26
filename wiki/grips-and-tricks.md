@@ -59,7 +59,7 @@ Cube Community made some videos showing off some of the more popular grips for O
 
 ### Oculus Rift S and Quest
 A video has not yet been made for Rift S and Quest controllers, but you can find some examples in addition to the image below in their `#tips-and-grips` channel! [CC Discord](https://discord.gg/dwe8mbC)  
-![Oculus Rift S/Quest Guide](./images/grips-and-tricks/newOculusGrips.png "Oculus Rift S/Quest Guide")
+![Oculus Rift S/Quest Guide](https://cdn.discordapp.com/attachments/483482746824687618/702249908815527967/Untitled-1.png")
 
 ### Valve Index Controllers
 A video has not yet been made for Index controllers, but you can find some examples in their `#tips-and-grips` channel!  
